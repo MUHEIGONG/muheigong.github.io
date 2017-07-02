@@ -80,8 +80,8 @@ ba_track_id: 24c736fc010ebcf9bd874e4230bd8fec
 
 
 # Featured Tags
-featured-tags: false                    # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-tags: true                    # whether or not using Feature-Tags
+featured-condition-size: 5              # A tag will be featured if the size of it is more than this condition value
 
 
 
