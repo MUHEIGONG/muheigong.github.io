@@ -94,6 +94,10 @@ service-worker: true
 # Friends
 friends: [
     {
+        tiele:"MUHEIGONG",
+        href:"http://muheigong.top/"
+    },
+    {
         title: "片刻",
         href: "http://pianke.me/"
     },
