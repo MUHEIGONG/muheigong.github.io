@@ -94,7 +94,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        tiele:"MUHEIGONG",
+        title:"MUHEIGONG",
         href:"http://muheigong.top/"
     },
     {
