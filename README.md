@@ -1,7 +1,6 @@
 
 
-## 致谢
-
-1. 这个模板是从这里[Hux](https://github.com/Huxpro/huxpro.github.io) fork 的。感谢这个作者 
-2. 感谢教程的提供者[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
+## 假如你们愿意，
+## 我可以变成无可指摘的温情的人，
+## 不是男人
+## 而是穿裤子的云！
